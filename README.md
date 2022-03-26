@@ -5,12 +5,6 @@
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
 ## :rocket: Sobre o desafio
 
 Nesse desafio, foi abordado conceitos básicos de NodeJS, criando e gerenciando rotas de uma aplicação  utilizando Express.
